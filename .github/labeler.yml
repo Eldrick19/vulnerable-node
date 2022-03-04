@@ -25,5 +25,6 @@ frontend:
 attack:
 - attacks/*
 
+# Add 'action' label to any change made to files in the '.github' folder
 action:
 - any: ['.github/*', '.github/**/*']
