@@ -108,4 +108,5 @@ This project is released under license BSD.
 
 # The Fork you're looking at
 
-I (Eldrick) am using this branch to test GitHub features including, but not limited to: Advanced Security, Actions, Codespaces, etc. Because this is a vulnerable application, it allows the possibility to test multiple things at once
+I (Eldrick) am using this branch to test GitHub features including, but not limited to: Advanced Security, Actions, Codespaces, etc. Because this is a vulnerable application, it allows the possibility to test multiple things at once.
+
